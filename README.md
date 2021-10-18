@@ -71,12 +71,21 @@ fillField('//input[@formcontrolname="password"]', 'contraseñaAnterior');
 fillField('//input[@formcontrolname="confirmPassword"]', 'nuevaContraseña');
 ```
 
-### Analice las pruebas end-to-end 🔩
-
-_Luego de ejecutarse el paso a paso de la prueba automatizada se generara un reporte en formatos HTML y JSON para analizar las pruebas_
+_Indicar adicionalmente que para salir del terminal interactivo y continuar con el test se debe escribir el comando exit en el terminal, ejemplo:_
 
 ```
-Los reportes se guadan en la carpeta mochawesome-report
+I.exit
+```
+
+### Analice las pruebas end-to-end 🔩
+
+_Luego de ejecutarse el paso a paso de la prueba automatizada se generara un reporte en formatos HTML y JSON dentro del proyecto para analizar las pruebas_
+
+```
+[mochawesome] Report JSON saved to /Users/****/****/auto-test/mochawesome-report/mochawesome.json
+```
+```
+[mochawesome] Report HTML saved to /Users/****/****/auto-test/mochawesome-report/mochawesome.html
 ```
 
 ## Construido con 🛠️
