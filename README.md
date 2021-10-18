@@ -1,6 +1,6 @@
 # Pruebas de automatización Fortesza
 
-_Proyecto de automatización de software para automatizar pruebas de registro, edición y validación en la web https://staging.fortesza.com._
+_Proyecto de automatización de pruebas de registro, edición y validación en la web https://staging.fortesza.com._
 
 ## Comenzando 🚀
 
