@@ -65,6 +65,9 @@ _Edición de contraseña en perfil de usuario_
 
 ```
 fillField('//input[@formcontrolname="password"]', 'contraseñaAnterior');
+```
+
+```
 fillField('//input[@formcontrolname="confirmPassword"]', 'nuevaContraseña');
 ```
 
