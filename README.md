@@ -1,2 +1,2 @@
 # fortesza_test
-Repositorio de la prueba técnica automatizada para la compañia Fortesza
+Repositorio de la prueba técnica automatizada para la compañía Fortesza
